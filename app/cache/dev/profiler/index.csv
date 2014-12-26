@@ -1,0 +1,4 @@
+ece0f7,127.0.0.1,POST,http://localhost:8000/api/posts,1419578481,
+68d2f9,127.0.0.1,PATCH,http://localhost:8000/api/posts/1,1419578516,
+b38f97,127.0.0.1,GET,http://localhost:8000/api/posts,1419578529,
+c61472,127.0.0.1,GET,http://localhost:8000/api/posts/1,1419578541,

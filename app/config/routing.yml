@@ -1,0 +1,7 @@
+app:
+    resource: @AppBundle/Controller/
+    type:     annotation
+api_posts:
+    type: rest
+    resource: "@AcmeDemoBundle/Controller/PostRESTController.php"
+    prefix: /api
