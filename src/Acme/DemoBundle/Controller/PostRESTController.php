@@ -17,7 +17,7 @@ use Symfony\Component\Form\Form;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 
-use Voryx\RESTGeneratorBundle\Controller\VoryxController;
+use Voryx\RESTGeneratorBundle\Controller\VoryxController; 
 
 /**
  * Post controller.
